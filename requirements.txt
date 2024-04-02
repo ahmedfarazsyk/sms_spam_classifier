@@ -2,4 +2,4 @@
 nltk
 scikit-learn
 stopwords
-punkt
+nltk.download('punkt')
